@@ -210,13 +210,13 @@ body {
 }
 
 .contact .row .map {
-  flex: 1 1 45rem;
+  flex: 1 1 60rem;
   width: 100%;
   object-fit: cover;
 }
 
 .contact .row form {
-  flex: 1 1 45rem;
+  flex: 1 1 60rem;
   padding: 5rem 2rem;
   text-align: center;
 }
